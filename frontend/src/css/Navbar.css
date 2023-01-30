@@ -23,7 +23,10 @@ ul {
 
 li {
     list-style: none;
-    padding: 1px 20px;
+    padding: 3px 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 10px;
 }
 
 a {
