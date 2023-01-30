@@ -9,4 +9,4 @@ this the hosted LINK for this project, do check it out
     https://tame-lion-gloves.cyclic.app
     
     
-CYCLIC platform is used to hoist this project
+CYCLIC platform is used to host this project
