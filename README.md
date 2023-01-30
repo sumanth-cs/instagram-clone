@@ -5,7 +5,7 @@ build using
  --> ReactJS
  --> NodeJS
  
-this the hoisted LINK for this project
+this the hosted LINK for this project, do check it out
     https://tame-lion-gloves.cyclic.app
     
     
